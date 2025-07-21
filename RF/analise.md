@@ -7,7 +7,7 @@
 
 ## 1. Checklist de Validação
 
-| #  | Item do Checklist | Sim | Observações |
+| #  | Item do Checklist | Check? | Observações |
 |----|-------------------|-----|-------------|
 | 1  | Todos os requisitos necessários estão especificados? | ✅ | Há cobertura das principais funções do fluxo financeiro, porém faltam requisitos não-funcionais. |
 | 2  | Os requisitos possuem identificadores únicos e padrão consistente? | ❌ | O RF003 está sem hífen, deveria ser RF-003 para padronização. |
